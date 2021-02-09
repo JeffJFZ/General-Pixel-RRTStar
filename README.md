@@ -8,4 +8,4 @@ Version 6.1.2 is updating now.
 
    
    
-### Copyright From MAT.Group
+### Copyright from MAT.Group(Mathematical Algorithm and Technique Group).
