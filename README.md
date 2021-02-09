@@ -1,4 +1,11 @@
-# paperAlgorithm-GeneralVersion(Pixel-RRT*)
-paperAlgorithm-GeneralVersion for path search and skeleton extraction in N-D images
+# GeneralVersion(Variational Pixel-RRT*)
+The related papers:  
+1. Variational Pixel-RRT*: A scalable skeleton trajectory tracking algorithm for hepatic vascular analysis.  
 ## NOTE(Ver6.1.1)  
-Version 6.1.1 is coming soon.
+Updated.
+## NOTE(Ver6.1.2)  
+Version 6.1.2 is updating now.
+
+   
+   
+### Copyright From MAT.Group
